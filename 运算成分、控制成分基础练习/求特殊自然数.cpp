@@ -24,16 +24,16 @@ int main() {
                             break;
                         case 3 : 
                             cout << c<<b<<a<<endl;
-                            break;
+                            break; 
                     }
-                
+                    
+                    return 0;
                 }
                 
             }
+            
         }
         
     }
-    
-    
-    return 0;
+
 }
